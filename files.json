@@ -1,0 +1,51 @@
+[{
+		"name": "Classic",
+		"files": [
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/A.wav?raw=true",
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/A.wav?raw=true",
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/A.wav?raw=true",
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/A.wav?raw=true",
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/A.wav?raw=true"
+		]
+	},
+	{
+		"name": "Train",
+		"files": [
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/B.wav?raw=true",
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/B.wav?raw=true",
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/B.wav?raw=true",
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/B.wav?raw=true",
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/B.wav?raw=true"
+		]
+	},
+	{
+		"name": "Train Cross",
+		"files": [
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/C.wav?raw=true",
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/C.wav?raw=true",
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/C.wav?raw=true",
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/C.wav?raw=true",
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/C.wav?raw=true"
+		]
+	},
+	{
+		"name": "Navi",
+		"files": [
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/D.wav?raw=true",
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/D.wav?raw=true",
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/D.wav?raw=true",
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/D.wav?raw=true",
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/D.wav?raw=true"
+		]
+	},
+	{
+		"name": "Xylophone",
+		"files": [
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/E.wav?raw=true",
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/E.wav?raw=true",
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/E.wav?raw=true",
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/E.wav?raw=true",
+			"https://github.com/Julioacarrettoni/ijustneededaplacetohostafile/blob/master/E.wav?raw=true"
+		]
+	}
+]
